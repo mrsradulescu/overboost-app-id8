@@ -1,6 +1,6 @@
 {
   "name": "overboost",
-  "version": "1.7.1",
+  "version": "1.7.2",
   "description": "OVERBOOST (iDrive 8): M Vitals, Drag Timer, Fault Scanner, Engine Config",
   "main": "javascript/runner.js",
   "private": false,
